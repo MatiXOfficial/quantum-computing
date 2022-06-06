@@ -7,3 +7,4 @@
 #### [lab6 - Deutsch algorithm, Bernstein-Vazirani algorithm](lab06/lab6.ipynb)
 #### [lab8 - Shor's algorithm](lab08/lab8.ipynb)
 #### [lab10 - Grover's algorithm](lab10/lab10.ipynb)
+#### [lab11 - Error mitigation on the example of the Bernstein-Vazirani algorithm](lab11/lab11.ipynb)
